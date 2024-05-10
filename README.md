@@ -1,7 +1,7 @@
 # Projeto_HardwarIA
 Recomendação de Componentes para Computador usando IA
 
-Este projeto visa recomendar configurações ideais de componentes de computador com base em um orçamento fornecido pelo usuário e seu objetivo de uso do computador. O sistema utiliza um algoritmo genético para encontrar a melhor combinação de componentes, levando em consideração os pesos atribuídos a cada categoria de peças e o limite de preço.
+Este projeto visa recomendar configurações ideais de componentes de computador com base em um orçamento fornecido pelo usuário e seu objetivo de uso do computador. O sistema utiliza um algoritmo genético para encontrar a melhor combinação de componentes, levando em consideração os pesos atribuídos a cada categoria de peças e o limite de preço.Juntamente com a GEMINI IA para fazer a validação e verificação da configuração.
 
 # Conjunto de Dados
 O conjunto de dados contém informações sobre diferentes componentes de computador, incluindo placas-mãe, processadores, memórias RAM, placas de vídeo, fontes de alimentação, sistemas de resfriamento e opções de armazenamento. Cada componente tem um preço associado e uma pontuação que reflete sua qualidade ou desempenho.
